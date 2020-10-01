@@ -1,4 +1,4 @@
-# I18-AN AMAZING PRODUCT 
+#I18-AN AMAZING PRODUCT 
 
 > A Vue.js starter project for i18n websites
 
