@@ -1,4 +1,4 @@
-# vue-i18n-starter
+# I18-AN AMAZING PRODUCT 
 
 > A Vue.js starter project for i18n websites
 
